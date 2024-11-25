@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+aiohttp
+beautifulsoup4
+redis
+tenacity
+python-multipart
+pydantic-settings
+python-dotenv
+aiofiles
